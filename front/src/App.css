@@ -1,0 +1,33 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    
+}
+body{
+    text-decoration: none;
+}
+
+
+
+.navbar-nav a{
+    font-size: 18px;
+}
+.cart-prod{
+    width: 30%;
+   
+    background-color: #b21010;
+   
+
+
+}
+.panier{
+    display: flex;
+    justify-content: space-between;
+    padding: 55px;
+} 
+.panier img{
+    margin-top: 50px;
+}
+
+
